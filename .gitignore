@@ -20,3 +20,4 @@ Thumbs.db
 
 # Large dataset archive
 CNN/data/cifar-10-python.tar.gz
+CNN/data/
