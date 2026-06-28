@@ -11,7 +11,12 @@ A beginner-friendly collection of deep learning notebooks covering the core conc
 - A simple GAN implementation
 - Practical Jupyter Notebook examples
 
-## 🛠️ Tech Stack
+## � Author
+
+- Mohd Afzal
+- B.Tech CSE Specialization in AI/ML
+
+## �🛠️ Tech Stack
 
 - Python
 - PyTorch
